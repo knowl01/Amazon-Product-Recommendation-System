@@ -11,3 +11,22 @@ Recommendation System
 * Matrix factorization based Recommendation system
 
 # Data Overview
+
+data
+
+# EDA
+exploratory
+
+# Rank-Based model
+rank
+
+# User-user similarity-based model
+user
+
+# Item-item similarity-based model
+item
+
+# Matrix Factorization based model
+matrix
+
+
