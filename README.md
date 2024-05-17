@@ -14,6 +14,7 @@ Recommendation System
 Amazon has given the task of building a recommendation system to recommend products to customers based on their previous ratings for other products. A collection of labeled data of Amazon reviews of products is given. The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
 
 **Dataset**
+
 The Amazon dataset contains the following attributes:
 
 *  **userId:** Every user identified with a unique id
