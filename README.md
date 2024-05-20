@@ -47,7 +47,8 @@ The Amazon dataset contains the following attributes:
 ![Screenshot 2024-05-20 163952](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/a61e5fde-cd32-48d4-a748-67e811a86522)
 
 # Item-item similarity-based model
-item
+
+
 
 # Matrix Factorization based model
 matrix
