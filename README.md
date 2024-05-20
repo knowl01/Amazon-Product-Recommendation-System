@@ -52,7 +52,7 @@ The Amazon dataset contains the following attributes:
 
 **Tuned Model**
 
-
+![Screenshot 2024-05-20 164401](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/18dc0d6d-042c-42a5-b1c6-72ff0e99ac7c)
 
 
 # Matrix Factorization based model
