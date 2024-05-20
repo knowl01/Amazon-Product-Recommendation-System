@@ -39,7 +39,11 @@ The Amazon dataset contains the following attributes:
 ![Screenshot 2024-05-20 163423](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/44ed2ae5-2d23-4453-84a0-0017fcd7e254)
 
 # User-user similarity-based model
-user
+
+![Screenshot 2024-05-20 163729](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/d752b8da-48b5-4774-9bfe-49882ee43917)
+
+**Tuned Model**
+
 
 # Item-item similarity-based model
 item
