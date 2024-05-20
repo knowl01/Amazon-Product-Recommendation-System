@@ -23,7 +23,7 @@ The Amazon dataset contains the following attributes:
 *  **timestamp:** Time of the rating. We will not use this column to solve the current problem
 
 # EDA
-exploratory
+
 
 # Rank-Based model
 rank
