@@ -33,9 +33,10 @@ The Amazon dataset contains the following attributes:
 ![Screenshot 2024-05-20 162834](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/9b331e2b-d1e3-40d0-b610-e5828180f479)
 
 # Rank-Based model
+
 **Recommending top 5 products with 100 minimum interactions based on popularity**
 
-
+![Screenshot 2024-05-20 163423](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/44ed2ae5-2d23-4453-84a0-0017fcd7e254)
 
 # User-user similarity-based model
 user
