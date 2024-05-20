@@ -61,4 +61,6 @@ The Amazon dataset contains the following attributes:
 
  ![Screenshot 2024-05-20 164626](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/3a36517d-54f9-478e-9b0e-4e450aa506a8)
 
+**Tuned Model**
+
 
