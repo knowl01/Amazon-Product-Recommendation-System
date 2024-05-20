@@ -48,6 +48,11 @@ The Amazon dataset contains the following attributes:
 
 # Item-item similarity-based model
 
+![Screenshot 2024-05-20 164345](https://github.com/knowl01/Amazon-Product-Recommendation-System/assets/135021827/238ab713-f47b-406b-8cdc-748949329d1c)
+
+**Tuned Model**
+
+
 
 
 # Matrix Factorization based model
