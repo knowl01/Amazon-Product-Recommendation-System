@@ -22,6 +22,13 @@ The Amazon dataset contains the following attributes:
 *  **Rating:** The rating of the corresponding product by the corresponding user
 *  **timestamp:** Time of the rating. We will not use this column to solve the current problem
 
+#  Code and resources used
+Jupyter notebook
+
+Packages: numpy, pandas, matplotlib, sklearn, seaborn, statsmodels
+
+Sources: From MIT; Data Science and Machine Learning online course
+
 # EDA
 
 **Statistical Analysis**
